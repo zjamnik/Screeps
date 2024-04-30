@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"autoSnippet.snippets": [
+			{
+				"language": "javascript",
+				"snippet": "New-module-export",
+			}
+		],
+		"cSpell.words": [
+			"Upgrader",
+			"upgraders"
+		],
+		"files.autoSave": "off"
+	}
+}
